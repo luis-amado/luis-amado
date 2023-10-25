@@ -56,7 +56,7 @@ Currently studying my third semester of university at Tecnológico de Monterrey 
 <div style="display:flex">
   <img alt="python" style="height:100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>
   <img alt="c++" style="height:100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
-  <img alt="java" style="height:100px" src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png"/>
+  <img alt="java" style="height:100px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"/>
   <img alt="javascript" style="height:100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png"/>
   <img alt="typescript" style="height:100px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
   <img alt="matlab" style="height:100px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
