@@ -49,7 +49,7 @@ Hey! I'm Luis Amado, a second-year computer science student. I am passionate abo
 </table>
 
 ## Education
-Currently studying my third semester of university at Tecnológico de Monterrey for a Bachelor of Engineering in Computer Science and I will graduate on May 2026. Relevant coursework: Data structures and algorithms, Internet of Things, Object-oriented programming and Computational architecture.
+Currently studying my fourth semester of university at Tecnológico de Monterrey for a Bachelor of Engineering in Computer Science and I will graduate on May 2026. Relevant coursework: Data structures and algorithms, Internet of Things, Object-oriented programming and Computational architecture.
 
 ### Academic Projects
 - Volcanic projectile simulation using Matlab and AppDesigner to create an interface for controlling the parameters.
