@@ -17,6 +17,16 @@ Hey! I'm Luis Amado, a second-year computer science student. I am passionate abo
     <th>Year</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/BioGuardianes">Bioguardianes</a></td>
+    <td></td>
+    <td>2024</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/luis-amado/NearMeApp">NearMe App</a></td>
+    <td>Created an iOS application that allows students to find restaurants near campus. It also allows users to favorite restaurants and gives recommendations based on their likes using a machine-learning model based on other users' reviews.</td>
+    <td>2024</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/luis-amado/HackMty-System32">CerebrAI</a></td>
     <td>Developed a web application focused on doing AI-assisted research during a 24-hour hackathon. Created a Python-based backend that makes calls to a custom AI model trained for research purposes and features the ability to summarize PDF, videos or websites as well as provide additional insights and answer questions</td>
     <td>2023</td>
