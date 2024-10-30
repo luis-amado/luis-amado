@@ -5,6 +5,12 @@
 ## Who am I?
 Hey! I'm Luis Amado, a second-year computer science student. I am passionate about Software Engineering and a lot of other cool stuff too! Feel free to take a look at my page to see more about me. 
 
+## Experience
+### **Google**, Sunnyvale, CA
+STEP Intern
+- Worked alongside another intern to refactor and improve a complex and outdated image metadata indexing pipeline using C++, resulting in a more maintanable codebase and increasing compliance with other systems.
+- During the 12 weeks, I completed the whole development process. From writing a design doc and discussing implementations to going through code reviews, conducting quality evaluations, launching, and ramping up traffic to our new system.
+
 ## Achievements
 - HackMTY 2023: Top 10 finalist in the largest hackathon in Latin America
 - Academic Achievement Scholarship
@@ -18,9 +24,7 @@ Hey! I'm Luis Amado, a second-year computer science student. I am passionate abo
   </tr>
   <tr>
     <td><a href="https://github.com/BioGuardianes">Bioguardianes</a></td>
-    <td>Multi-level interactive training experience for a company’s volunteers to help them document their
-environment’s flora and fauna by using the Unity Engine and C#. Built a full-stack web application to monitor the volunteer’s progress using the ASP.NET framework, a
-LookerStudio dashboard, and a MySQL database.</td>
+    <td>Multi-level interactive training experience for a company’s volunteers to help them document their environment’s flora and fauna by using the Unity Engine and C#. Built a full-stack web application to monitor the volunteer’s progress using the ASP.NET framework, a LookerStudio dashboard, and a MySQL database.</td>
     <td>2024</td>
   </tr>
   <tr>
