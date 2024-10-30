@@ -12,7 +12,7 @@ STEP Intern
 - During the 12 weeks, I completed the whole development process. From writing a design doc and discussing implementations to going through code reviews, conducting quality evaluations, launching, and ramping up traffic to our new system.
 
 ## Achievements
-- HackMTY 2023: Top 10 finalist in the largest hackathon in Latin America
+- HackMTY 2023/2024: Top 10 finalist twice in the largest student hackathon in Latin America
 - Academic Achievement Scholarship
 
 ## Projects
