@@ -18,7 +18,9 @@ Hey! I'm Luis Amado, a second-year computer science student. I am passionate abo
   </tr>
   <tr>
     <td><a href="https://github.com/BioGuardianes">Bioguardianes</a></td>
-    <td></td>
+    <td>Multi-level interactive training experience for a company’s volunteers to help them document their
+environment’s flora and fauna by using the Unity Engine and C#. Built a full-stack web application to monitor the volunteer’s progress using the ASP.NET framework, a
+LookerStudio dashboard, and a MySQL database.</td>
     <td>2024</td>
   </tr>
   <tr>
